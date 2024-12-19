@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Computer Vision Concepts
+Making computer vision knowledge accessible for busy folks
 <!--
 **computer-vision-concepts/computer-vision-concepts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
